@@ -1,0 +1,6 @@
+python version 3.11
+
+pip install mysql-connector-python
+pip install dash
+pip install pandas
+pip install plotly
